@@ -1,5 +1,5 @@
 # MORINGA-SCHOOL
-his is a school project on data analysis for Autolib electric car-sharing company. The company has branches in various cities but this data analysis focuses on service usage in Paris, France. It operates in a way that its clients are able to take out a subscription on the Autolib’ website or through their smartphones.
+This is a school project on data analysis for Autolib electric car-sharing company. The company has branches in various cities but this data analysis focuses on service usage in Paris, France. It operates in a way that its clients are able to take out a subscription on the Autolib’ website or through their smartphones.
 The driver is assigned a car from a charging bay the number of which is indicated on the screen depending on the client’s satisfaction with the answers they receive
 Real-time data is recorded and monitored to enable the smooth running of operations; The picking and returning of cars, to know which cars are available and determine peak and slow business hours. The stations are also located at various locations. Clients can therefore pick up or return the rented cars to any of them.
 For data cleaning and analysis, I made use of Python and Google Colab. Imported pandas,  NumPy and DateTime libraries.
